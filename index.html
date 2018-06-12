@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/color-bar.css">
+
+    <script src="js/jquery.min.js"></script>
+
+</head>
+<body>
+<div class = "color-wrapper"></div>
+<script src="js/color-bar.js"></script>
+<script>
+    let mColorBar = new ColorBar();
+    // mColorBar.setColorPool(array);设置颜色池，参数为array数组
+    // mColorBar.setColorThreshold(array);设置颜色阈值，参数为array数组
+    mColorBar.setTitle('温度');//设置标题
+    mColorBar.generateColorBar(20);//20为区分字体颜色的阈值
+</script>
+</body>
+</html>

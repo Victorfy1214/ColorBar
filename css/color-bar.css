@@ -1,0 +1,28 @@
+/*外包轮廓*/
+.color-wrapper{
+    position: absolute;
+    bottom:1rem;
+    right:1rem;
+    width:2.2rem;
+    height:15rem;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+}
+/*颜色单个实体*/
+.color-one{
+    width:2.2rem;
+    height:1.5rem;
+    float:left;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+/*白色字体*/
+.text_white{
+    color:white;
+}
+/*黑色字体*/
+.text_black{
+    color:black;
+}
