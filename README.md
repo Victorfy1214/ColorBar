@@ -1,5 +1,5 @@
 # ColorBar
-超简单的颜色条，非渐变样式
+仿写[`ventusky`](https://www.ventusky.com/)的一款超简单的颜色条，非渐变样式
 
 项目介绍：
 ====
