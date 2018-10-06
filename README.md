@@ -30,7 +30,7 @@
  ```html
 <div class = "color-wrapper"></div>
  ```
- 引用`EditTool.js`文件
+ 引用`color-bar.js`文件
   ```html
 <script src="js/color-bar.js"></script>
  ```
