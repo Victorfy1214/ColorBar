@@ -14,6 +14,8 @@
 ====
 ![Image text](https://github.com/Victorfy1214/ColorBar/blob/master/preview/preview.png)
 
+[`在线Demo演示`](https://htmlpreview.github.io/?https://github.com/Victorfy1214/ColorBar/blob/master/index.html)
+
 使用方法
 ====
 
